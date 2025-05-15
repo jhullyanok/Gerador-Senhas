@@ -1,0 +1,7 @@
+# Arquivos e pastas para ignorar
+__pycache__/
+*.pyc
+.env
+*.log
+.idea/
+.vscode/
